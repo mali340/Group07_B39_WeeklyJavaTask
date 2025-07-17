@@ -13,7 +13,9 @@ public class Task10_Array_SortAscending {
         int x = 0;
 
         for (int i = arr.length - 1; i >= 0; i++) {
-            for(int j = 0, j < arr.length, j++)
+            for(int j = 0; j < arr.length; j++){
+
+            }
 
         }
         //System.out.println(Arrays.toString(sortArr));
