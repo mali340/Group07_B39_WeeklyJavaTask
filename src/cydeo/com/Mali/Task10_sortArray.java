@@ -16,7 +16,6 @@ public class Task10_sortArray {
             }
 
         }
-
         return arr;
     }
 
