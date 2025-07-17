@@ -15,7 +15,8 @@ public class Task09_FindMinimum {
 
         return min;
     }
-    
+
+
 
     public static void main(String[] args) {
         int[] numbers = {35, 5, 9, 12, 7};
